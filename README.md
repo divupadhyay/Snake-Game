@@ -1,4 +1,4 @@
-Title: Snake Game in Java
+SNAKE-GAME
 
 Description:
 This project is a classic Snake game implemented in Java. The Snake game is a simple and timeless arcade game where the player controls a snake that moves around a bounded area, eating food pellets to grow longer. The game ends when the snake collides with itself or with the boundaries of the playing area.
