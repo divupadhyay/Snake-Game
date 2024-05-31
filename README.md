@@ -17,7 +17,7 @@ Instructions:
 1. Clone the repository to your local machine.
 2. Compile the Java source files using a Java compiler.
 3. Run the compiled program to start the game.
-4. Use the arrow keys or WASD keys to control the snake's movement.
+4. Use the arrow keys or up, down,right and left keys to control the snake's movement.
 5. Eat food pellets to grow longer and increase your score.
 6. Avoid colliding with the snake's own body or the boundaries of the playing area.
 7. The game ends when the snake collides, and your final score is displayed.
