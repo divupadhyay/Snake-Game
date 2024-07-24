@@ -23,5 +23,8 @@ Instructions:
 7. The game ends when the snake collides, and your final score is displayed.
 
 
+![Screenshot 2024-07-22 220000](https://github.com/user-attachments/assets/fc108026-8a7c-4993-a065-357cb702b0bb)
+
+
 
 
